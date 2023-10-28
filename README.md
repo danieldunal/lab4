@@ -21,7 +21,8 @@ Step 3: Package, compile, and test
 ./mvnw spring-boot:run    
 
 Step 4: Feel free to navigate between 
-https://dad21007-vm.cse.uconn.edu/proxy/8099/
+https://dad21007-vm.cse.uconn.edu/proxy/8099/    
+and    
 https://dad21007-vm.cse.uconn.edu/proxy/8099/test
 
 Enjoy.
