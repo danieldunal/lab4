@@ -1,8 +1,8 @@
 # lab4
 
 Here are the instructions to install my lab4 submission and run it.
-You need:
-Maven installed
+You need:    
+Maven installed    
 Java 1.17 installed
 
 Step 1: First obtain all the files necessary in order to run.
