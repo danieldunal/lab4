@@ -16,9 +16,9 @@ cd ..../YOUR-DIR
 Step 3: Package, compile, and test
 (while in YOUR-DIR)
 
-./mvnw test
-./mvnw package
-./mvnw spring-boot:run
+./mvnw test    
+./mvnw package    
+./mvnw spring-boot:run    
 
 Step 4: Feel free to navigate between 
 https://dad21007-vm.cse.uconn.edu/proxy/8099/
