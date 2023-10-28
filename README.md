@@ -7,7 +7,7 @@ Java 1.17 installed
 
 Step 1: First obtain all the files necessary in order to run.
 
-git clone -n https://github.com/danieldunal/lab4
+git clone -n [https://github.com/danieldunal/lab4.git](https://github.com/danieldunal/lab4.git)
 
 Step 2: Navigate to the directory where the files are located:
 
