@@ -11,10 +11,10 @@ git clone -n [https://github.com/danieldunal/lab4.git](https://github.com/daniel
 
 Step 2: Navigate to the directory where the files are located:
 
-cd ..../YOUR-DIR
+cd ..../lab4
 
 Step 3: Package, compile, and test
-(while in YOUR-DIR)
+(while in lab4)
 
 ./mvnw test    
 ./mvnw package    
